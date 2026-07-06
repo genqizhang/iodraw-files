@@ -67,7 +67,7 @@
           <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="derived_memory_l1_wavefronts_shared_excessive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="830" width="286" height="29" as="geometry" />
+          <mxGeometry x="391" y="912" width="286" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-24" value="l1tex__data_bank_conflicts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="282" y="830" width="170" height="29" as="geometry" />
