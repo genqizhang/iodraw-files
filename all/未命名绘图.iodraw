@@ -55,8 +55,8 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-20" value="bank conflict counter     " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-22" value="derived_memory_l1_&lt;div&gt;wavefronts_&lt;/div&gt;&lt;div&gt;shared_&lt;/div&gt;&lt;div&gt;excessive&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="829" width="88" height="64" as="geometry" />
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="473" y="780" width="88" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
