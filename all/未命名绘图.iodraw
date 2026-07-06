@@ -37,8 +37,14 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-13" value="bank conflict 发生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="514" width="88" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-14" target="xJV6Mqf5u-IpyxFW0-sd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-14" value="bank arbitration / serialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="580" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-16" value="bank arbitration / serialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="669" width="168" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
