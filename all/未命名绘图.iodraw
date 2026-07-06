@@ -52,6 +52,9 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-19" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="463" y="770" width="88" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-20" target="xJV6Mqf5u-IpyxFW0-sd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-20" value="bank conflict counter     " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
         </mxCell>
@@ -59,7 +62,7 @@
           <mxGeometry x="463" y="830" width="286" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-24" value="l1tex__data_bank_conflicts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="166" y="830" width="286" height="29" as="geometry" />
+          <mxGeometry x="282" y="830" width="170" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
