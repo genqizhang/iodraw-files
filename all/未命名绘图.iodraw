@@ -56,7 +56,7 @@
           <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="473" y="780" width="88" height="29" as="geometry" />
+          <mxGeometry x="463" y="830" width="181" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
