@@ -34,6 +34,9 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-13" value="bank conflict 发生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="514" width="88" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-14" value="32-bank address mapping" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="338" y="421" width="168" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
