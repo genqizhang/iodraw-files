@@ -10,11 +10,17 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-1" value="Warp 执行 LDS / LDSM 指令" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="328" y="132" width="168" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-2" target="xJV6Mqf5u-IpyxFW0-sd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-2" value="LSU（Load Store Unit）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="328" y="225" width="168" height="52" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-7" value="L1TEX shared memory pipeline" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="328" y="318" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-9" value="L1TEX shared memory pipeline" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="338" y="328" width="168" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
