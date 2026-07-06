@@ -49,13 +49,8 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="433" y="695" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-19" target="xJV6Mqf5u-IpyxFW0-sd-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="507" y="819" />
-              <mxPoint x="606" y="819" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-19" target="xJV6Mqf5u-IpyxFW0-sd-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-19" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="463" y="770" width="88" height="29" as="geometry" />
@@ -67,7 +62,7 @@
           <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="derived_memory_l1_wavefronts_shared_excessive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="391" y="912" width="286" height="29" as="geometry" />
+          <mxGeometry x="364" y="918" width="286" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-24" value="l1tex__data_bank_conflicts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="282" y="830" width="170" height="29" as="geometry" />
