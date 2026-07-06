@@ -25,8 +25,8 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-9" value="32-bank address mapping" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="328" y="411" width="168" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="428" width="50" height="100" as="geometry" />
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="394" y="491" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
