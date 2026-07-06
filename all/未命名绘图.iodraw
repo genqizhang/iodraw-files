@@ -43,8 +43,11 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-14" value="bank arbitration / serialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="580" width="168" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-16" value="bank arbitration / serialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-16" value="serialized access（执行被拆分）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="669" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="397" y="448" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
