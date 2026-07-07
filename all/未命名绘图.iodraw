@@ -65,7 +65,7 @@
           <mxGeometry x="364" y="918" width="286" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-24" value="l1tex__data_bank_conflicts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="282" y="830" width="170" height="29" as="geometry" />
+          <mxGeometry x="323" y="846" width="170" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
