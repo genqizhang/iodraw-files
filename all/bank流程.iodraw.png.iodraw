@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" scale="1" border="5" version="24.7.17">
+  <diagram name="第 1 页" id="UakELqB5LVUO4qnyh26q">
+    <mxGraphModel dx="1434" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-1" target="xJV6Mqf5u-IpyxFW0-sd-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-1" value="Warp 执行 LDS / LDSM 指令" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="328" y="132" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-2" target="xJV6Mqf5u-IpyxFW0-sd-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-2" value="LSU（Load Store Unit）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="328" y="225" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-7" target="xJV6Mqf5u-IpyxFW0-sd-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-7" value="L1TEX shared memory pipeline" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="328" y="318" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-9" value="32-bank address mapping" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="328" y="411" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="387" y="438" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-12" value="无冲突" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="319" y="514" width="88" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-13" target="xJV6Mqf5u-IpyxFW0-sd-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-13" value="bank conflict 发生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="414" y="514" width="88" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-14" target="xJV6Mqf5u-IpyxFW0-sd-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-14" value="bank arbitration / serialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="374" y="580" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-16" value="serialized access（执行被拆分）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="374" y="669" width="168" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="433" y="695" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-19" target="xJV6Mqf5u-IpyxFW0-sd-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-19" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="463" y="770" width="88" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-20" target="xJV6Mqf5u-IpyxFW0-sd-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-20" value="bank conflict counter     " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="derived_memory_l1_wavefronts_shared_excessive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="364" y="918" width="286" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-24" value="l1tex__data_bank_conflicts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="323" y="846" width="170" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
