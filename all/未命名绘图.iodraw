@@ -37,8 +37,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jahwfBqoD10nwwBxqRpc-9" value="without cp.async" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="244" y="524" width="107" height="26" as="geometry" />
+        <mxCell id="jahwfBqoD10nwwBxqRpc-9" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;without cp.async&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="156" y="510" width="284" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
