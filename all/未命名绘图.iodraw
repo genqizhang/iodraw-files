@@ -10,6 +10,9 @@
         <mxCell id="KFaPPsyYvWVCen8G7OwV-12" value="&lt;span style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;已完成的 cp.async-group&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="815" y="108" width="277" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="KFaPPsyYvWVCen8G7OwV-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="355" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
