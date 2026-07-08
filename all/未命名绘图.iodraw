@@ -35,7 +35,7 @@
           <mxGeometry x="601.5" y="466" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KFaPPsyYvWVCen8G7OwV-24" value="&lt;span style=&quot;font-size: 24px; text-wrap: nowrap;&quot;&gt;1 个未决的 cp.async-group&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="147" width="277" height="83" as="geometry" />
+          <mxGeometry x="1005" y="146" width="305" height="83" as="geometry" />
         </mxCell>
         <mxCell id="KFaPPsyYvWVCen8G7OwV-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1114.5" y="66" width="86" height="416" as="geometry" />
