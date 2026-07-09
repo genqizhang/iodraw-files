@@ -47,10 +47,10 @@
           <mxGeometry x="374" y="669" width="168" height="52" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-19" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="414" y="757" width="88" height="29" as="geometry" />
+          <mxGeometry x="414" y="741" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="derived_memory_l1_wavefronts_shared_excessive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="364" y="918" width="286" height="29" as="geometry" />
+          <mxGeometry x="861" y="426" width="286" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
