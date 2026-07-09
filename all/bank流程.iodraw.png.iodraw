@@ -43,9 +43,6 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-14" value="bank arbitration / serialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="374" y="580" width="168" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="uP5KVnYn3wpkl-5tfJF3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-16" target="xJV6Mqf5u-IpyxFW0-sd-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-16" value="serialized access（执行被拆分）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="374" y="669" width="168" height="52" as="geometry" />
         </mxCell>
@@ -53,7 +50,7 @@
           <mxGeometry x="414" y="758" width="88" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="derived_memory_l1_wavefronts_shared_excessive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="315" y="824" width="286" height="29" as="geometry" />
+          <mxGeometry x="779" y="837" width="286" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
