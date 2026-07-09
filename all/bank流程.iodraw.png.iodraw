@@ -55,11 +55,10 @@
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-19" value="wavefront 执行拆分增加" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="463" y="770" width="88" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xJV6Mqf5u-IpyxFW0-sd-20" target="xJV6Mqf5u-IpyxFW0-sd-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-20" value="bank conflict counter     " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="364" y="770" width="88" height="29" as="geometry" />
+        <mxCell id="xJV6Mqf5u-IpyxFW0-sd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="xJV6Mqf5u-IpyxFW0-sd-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408" y="799" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xJV6Mqf5u-IpyxFW0-sd-23" value="derived_memory_l1_wavefronts_shared_excessive" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="364" y="918" width="286" height="29" as="geometry" />
