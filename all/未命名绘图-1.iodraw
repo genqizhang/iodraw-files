@@ -69,6 +69,9 @@
             <mxPoint x="1132" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GuTiIs-2Mi2MnnUdX3Xe-18" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="710" width="44" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
