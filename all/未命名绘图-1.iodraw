@@ -26,10 +26,10 @@
           <mxGeometry x="750" y="520" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="457" y="232" width="119" height="30" as="geometry" />
+          <mxGeometry x="630" y="450" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-47" value="Kernel B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="481" y="232" width="70" height="30" as="geometry" />
+          <mxGeometry x="654" y="450" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="238" height="30" as="geometry" />
