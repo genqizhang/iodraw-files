@@ -55,8 +55,8 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-18" value="复制轨道：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="95" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-19" value="复制轨道：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="105" width="80" height="30" as="geometry" />
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-19" value="计算轨道：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="153" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
