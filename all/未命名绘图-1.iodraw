@@ -31,8 +31,8 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="428" y="95" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-13" value="Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="431.5" y="97" width="63" height="26" as="geometry" />
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-13" value="HtoD B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="557" y="95" width="70" height="30" as="geometry" />
