@@ -31,6 +31,12 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-47" value="Kernel B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="474" y="450" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="445" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-51" value="准备任务 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
