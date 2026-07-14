@@ -17,13 +17,19 @@
           <mxGeometry x="480" y="153" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-15" value="HtoD C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="485.5" y="153" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="153" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-18" value="复制轨道：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="95" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-19" value="计算轨道：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="153" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="163" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-21" value="HtoD C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="163" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
