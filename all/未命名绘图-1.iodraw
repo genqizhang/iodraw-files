@@ -31,9 +31,6 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-35" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="456" y="320" width="84" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-38" value="Record Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="100" height="30" as="geometry" />
         </mxCell>
