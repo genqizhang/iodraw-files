@@ -16,6 +16,9 @@
         <mxCell id="gQj6M7Uu13d6sa3gGNAu-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Data Transfor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gQj6M7Uu13d6sa3gGNAu-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
