@@ -46,8 +46,14 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="610" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-55" value="提交任务 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-55" value="提交任务 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="605" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="460" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-57" value="执行任务0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="555" y="460" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
