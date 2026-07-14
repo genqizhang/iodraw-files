@@ -25,8 +25,8 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="304" y="95" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-11" value="HtoD A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="309.5" y="95" width="60" height="30" as="geometry" />
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-11" value="提交Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="294.5" y="95" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="428" y="95" width="70" height="30" as="geometry" />
