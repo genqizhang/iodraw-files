@@ -28,6 +28,9 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="320" width="77" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L45rYh2mGQYjJIXKHnJe-38" target="L45rYh2mGQYjJIXKHnJe-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-38" value="Record Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="320" width="100" height="30" as="geometry" />
         </mxCell>
@@ -36,6 +39,12 @@
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-44" value="Record Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="530" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-47" value="Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="394" y="330" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
