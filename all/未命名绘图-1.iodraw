@@ -4,51 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304" y="95" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-11" value="提交Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="294" y="95" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-12" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;提交Kernel B&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384" y="95" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="153" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-15" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-lark-html-role=&quot;root&quot; data-page-id=&quot;W63MdRr5voQraTxwupOcRNYznlg&quot;&gt;&lt;div class=&quot;old-record-id-F6d1d09YMoO1AUxyr0UcIBkrnKd&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Kernel A&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;W63MdRr5voQraTxwupOcRNYznlg&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;Kernel A&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+8&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7628056901829315778&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:false,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;8b221c43-9206-4f07-93aa-0d9199d836cc&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:289,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:129,&amp;quot;end&amp;quot;:137},&amp;quot;recordId&amp;quot;:&amp;quot;F6d1d09YMoO1AUxyr0UcIBkrnKd&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="515" y="153" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-18" value="CPU：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="95" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-19" value="GPU：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="153" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="153" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-21" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-lark-html-role=&quot;root&quot; data-page-id=&quot;W63MdRr5voQraTxwupOcRNYznlg&quot;&gt;&lt;div class=&quot;old-record-id-F6d1d09YMoO1AUxyr0UcIBkrnKd&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;Kernel B&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;W63MdRr5voQraTxwupOcRNYznlg&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;Kernel A&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+8&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7628056901829315778&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:false,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;8b221c43-9206-4f07-93aa-0d9199d836cc&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:289,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:129,&amp;quot;end&amp;quot;:137},&amp;quot;recordId&amp;quot;:&amp;quot;F6d1d09YMoO1AUxyr0UcIBkrnKd&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="685" y="153" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="95" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-23" value="&lt;div data-docx-has-block-data=&quot;false&quot; data-lark-html-role=&quot;root&quot; data-page-id=&quot;W63MdRr5voQraTxwupOcRNYznlg&quot;&gt;&lt;div class=&quot;old-record-id-F6d1d09YMoO1AUxyr0UcIBkrnKd&quot; style=&quot;white-space-collapse: preserve;&quot;&gt;cudaStreamSynchronize&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;W63MdRr5voQraTxwupOcRNYznlg&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;cudaStreamSynchronize&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+l&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7628056901829315778&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:false,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;315a510c-3cc8-431d-806c-0ef60f018a78&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:true,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:289,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:33,&amp;quot;end&amp;quot;:54},&amp;quot;recordId&amp;quot;:&amp;quot;F6d1d09YMoO1AUxyr0UcIBkrnKd&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="565" y="95" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="200" as="sourcePoint" />
-            <mxPoint x="480" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="200" as="sourcePoint" />
-            <mxPoint x="790" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="384" y="320" width="70" height="30" as="geometry" />
         </mxCell>
@@ -75,8 +30,8 @@
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454.43" y="470" as="sourcePoint" />
-            <mxPoint x="454" y="270" as="targetPoint" />
+            <mxPoint x="520.4300000000001" y="480" as="sourcePoint" />
+            <mxPoint x="520" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -86,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-35" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="530" width="50" height="30" as="geometry" />
+          <mxGeometry x="560" y="530" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
