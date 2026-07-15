@@ -38,16 +38,16 @@
           <mxGeometry x="440" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="655" y="360" width="70" height="30" as="geometry" />
+          <mxGeometry x="535" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-53" value="准备任务 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="650" y="360" width="80" height="30" as="geometry" />
+          <mxGeometry x="530" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="740" y="360" width="70" height="30" as="geometry" />
+          <mxGeometry x="620" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-55" value="提交任务 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="735" y="360" width="80" height="30" as="geometry" />
+          <mxGeometry x="615" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="825" y="450" width="130" height="30" as="geometry" />
