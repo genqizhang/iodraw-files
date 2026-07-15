@@ -44,10 +44,10 @@
           <mxGeometry x="737.5" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="827.5" y="180" width="70" height="30" as="geometry" />
+          <mxGeometry x="905" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-55" value="提交任务 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="822.5" y="180" width="80" height="30" as="geometry" />
+          <mxGeometry x="900" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="440" y="230" width="130" height="30" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="K3YuVjUmiWe11ufbqFLh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="667.5" y="360" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3YuVjUmiWe11ufbqFLh-2" value="准备任务 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="K3YuVjUmiWe11ufbqFLh-2" value="准备任务 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="737.5" y="360" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
