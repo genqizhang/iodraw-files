@@ -42,6 +42,9 @@
         <mxCell id="Cb45VLTxJ4QtQMO7MrmU-32" value="CPU 每轮依次提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="225" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cb45VLTxJ4QtQMO7MrmU-35" value="CPU 每轮依次提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="437" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
