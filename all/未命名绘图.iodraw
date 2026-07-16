@@ -51,8 +51,8 @@
             <mxPoint x="486.76" y="565.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cb45VLTxJ4QtQMO7MrmU-37" value="CPU 每轮依次提交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="437" y="235" width="120" height="60" as="geometry" />
+        <mxCell id="Cb45VLTxJ4QtQMO7MrmU-37" value="CPU 预先定义节点与依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
