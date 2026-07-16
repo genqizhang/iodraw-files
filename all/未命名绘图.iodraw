@@ -54,8 +54,8 @@
         <mxCell id="Cb45VLTxJ4QtQMO7MrmU-37" value="CPU 预先定义节点与依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cb45VLTxJ4QtQMO7MrmU-38" value="CPU 预先定义节点与依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="235" width="120" height="60" as="geometry" />
+        <mxCell id="Cb45VLTxJ4QtQMO7MrmU-38" value="形成完整执行图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
