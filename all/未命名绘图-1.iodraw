@@ -154,6 +154,9 @@
         <mxCell id="cQ-GgSbqiw8YgxjMyd_X-18" value="等待数据返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="880" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-19" value="Stream 2：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="256" y="662" width="79" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
