@@ -29,7 +29,7 @@
         <mxCell id="AgTnKw20JlZEaY_kQdcT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AgTnKw20JlZEaY_kQdcT-11" target="AgTnKw20JlZEaY_kQdcT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AgTnKw20JlZEaY_kQdcT-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AgTnKw20JlZEaY_kQdcT-20">
+        <mxCell id="AgTnKw20JlZEaY_kQdcT-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;进一步&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;减少等待&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AgTnKw20JlZEaY_kQdcT-20">
           <mxGeometry x="-0.1429" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
