@@ -7,7 +7,7 @@
         <mxCell id="AgTnKw20JlZEaY_kQdcT-9" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Nsight Systems&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;定位问题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;先观察 CPU 提交、GPU 执行、传输与同步关系&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="240" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="AgTnKw20JlZEaY_kQdcT-10" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;CUDA Stream&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;执行模型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;解释&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AgTnKw20JlZEaY_kQdcT-10" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;CUDA Stream&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;执行模型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;解释异步提交、顺序语义&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;与跨 Stream 并发条件&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="240" height="410" as="geometry" />
         </mxCell>
       </root>
