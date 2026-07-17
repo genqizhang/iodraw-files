@@ -166,6 +166,9 @@
         <mxCell id="cQ-GgSbqiw8YgxjMyd_X-22" value="指令 3：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="263" y="770" width="64" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-23" value="执行单元 ：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="884" width="81" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
