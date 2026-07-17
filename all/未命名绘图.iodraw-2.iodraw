@@ -13,6 +13,12 @@
         <mxCell id="AgTnKw20JlZEaY_kQdcT-11" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;多 Stream&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;流水线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;把独立任务组织为传输与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;计算交错推进的流水线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="90" width="240" height="410" as="geometry" />
         </mxCell>
+        <mxCell id="AgTnKw20JlZEaY_kQdcT-12" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;CUDA Graph&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;调度优化&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;将固定工作流整体提交&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;降低重复启动与提交开销&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="90" width="240" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTnKw20JlZEaY_kQdcT-13" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;CUDA Graph&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;调度优化&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;将固定工作流整体提交&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;降低重复启动与提交开销&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="100" width="240" height="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
