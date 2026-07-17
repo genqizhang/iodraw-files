@@ -122,7 +122,25 @@
           <mxGeometry x="491" y="660" width="369" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cQ-GgSbqiw8YgxjMyd_X-4" value="等待数据返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="551" y="660" width="100" height="30" as="geometry" />
+          <mxGeometry x="625.5" y="660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="818" y="462" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-6" value="Bias 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="828" y="464" width="51" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="888" y="462" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-8" value="ReLU 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="894" y="464" width="59" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="958" y="462" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQ-GgSbqiw8YgxjMyd_X-10" value="DtoH 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="966" y="464" width="55" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
