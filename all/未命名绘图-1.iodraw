@@ -119,7 +119,7 @@
           <mxGeometry x="420" y="660" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cQ-GgSbqiw8YgxjMyd_X-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="491" y="660" width="220" height="30" as="geometry" />
+          <mxGeometry x="491" y="660" width="369" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cQ-GgSbqiw8YgxjMyd_X-4" value="等待数据返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="551" y="660" width="100" height="30" as="geometry" />
