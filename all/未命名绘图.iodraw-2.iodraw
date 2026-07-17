@@ -26,6 +26,14 @@
         <mxCell id="AgTnKw20JlZEaY_kQdcT-10" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;CUDA Stream&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;执行模型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;解释异步提交、顺序语义&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;与跨 Stream 并发条件&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="240" height="410" as="geometry" />
         </mxCell>
+        <mxCell id="AgTnKw20JlZEaY_kQdcT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AgTnKw20JlZEaY_kQdcT-11" target="AgTnKw20JlZEaY_kQdcT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTnKw20JlZEaY_kQdcT-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AgTnKw20JlZEaY_kQdcT-20">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AgTnKw20JlZEaY_kQdcT-11" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;多 Stream&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;流水线&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;把独立任务组织为传输与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;计算交错推进的流水线&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="90" width="240" height="410" as="geometry" />
         </mxCell>
