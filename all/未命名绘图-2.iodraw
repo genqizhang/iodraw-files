@@ -14,7 +14,10 @@
           <mxGeometry x="640" y="1170" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-5" value="$$a=exp(m_{old}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1218" width="180" height="30" as="geometry" />
+          <mxGeometry x="655" y="1200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="1248" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
