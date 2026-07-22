@@ -16,8 +16,8 @@
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-5" value="$$a=exp(m_{old}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="655" y="1200" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="$$\ell_{new}=a\ell_{old}+\sum exp(S_{tile}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1240" width="310" height="30" as="geometry" />
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="$$\ell_{new}=\alpha \ell_{old}+\sum exp(S_{tile}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1240" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-7" value="$$acc_{new}=\alpha acc_{old}+P_{tile}V_{tile}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="1280" width="280" height="30" as="geometry" />
