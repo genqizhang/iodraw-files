@@ -176,7 +176,7 @@
           <mxGeometry x="227" y="603" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p6qsB-5qtHqS4KQNsk8d-32" value="&lt;span style=&quot;font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; font-variant-ligatures: no-common-ligatures; text-align: start; white-space-collapse: preserve; background-color: rgb(250, 250, 250);&quot;&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1128" width="200" height="30" as="geometry" />
+          <mxGeometry x="285" y="1060" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6qsB-5qtHqS4KQNsk8d-35" value="$$S=Q*K^T*scale$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="1128" width="130" height="30" as="geometry" />
