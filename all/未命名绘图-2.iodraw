@@ -10,8 +10,8 @@
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-2" value="$$ S^{(T)}=Q^{(tile)}{(K^{(T)})}^T\cdot scale$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="1218" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-3" value="$$S=Q*K^T*scale$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1168" width="130" height="30" as="geometry" />
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-3" value="$$S=Q*K^T*scale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1168" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
