@@ -10,6 +10,9 @@
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-2" value="$$ S^{(T)}=Q^{(tile)}{(K^{(T)})}^T\cdot scale$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="1218" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-4" value="$$m_new=max(m_old,m_tile)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1178" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
