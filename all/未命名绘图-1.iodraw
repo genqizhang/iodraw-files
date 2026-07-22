@@ -175,14 +175,11 @@
         <mxCell id="cQ-GgSbqiw8YgxjMyd_X-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;顺序执行&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="227" y="603" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p6qsB-5qtHqS4KQNsk8d-31" value="&lt;div style=&quot;white-space: pre-wrap;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;$$scale=1+1$$&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1200" width="110" height="30" as="geometry" />
+        <mxCell id="p6qsB-5qtHqS4KQNsk8d-31" value="&lt;div style=&quot;white-space: pre-wrap;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;div data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1200" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p6qsB-5qtHqS4KQNsk8d-32" value="&lt;span style=&quot;font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;Anonymous Pro&amp;quot;, &amp;quot;Droid Sans Mono&amp;quot;, Menlo, Monaco, Consolas, Inconsolata, Courier, monospace, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; font-variant-ligatures: no-common-ligatures; text-align: start; white-space-collapse: preserve; background-color: rgb(250, 250, 250);&quot;&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="1128" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="p6qsB-5qtHqS4KQNsk8d-34" value="$$O_i $$" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
