@@ -19,8 +19,8 @@
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="$$\ell_{new}=a\ell_{old}+\sum exp(S_{tile}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="1240" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="645" y="1288" width="50" height="30" as="geometry" />
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-7" value="$$acc_{new}=a acc_{old}+P_{tile}V_{tile}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1288" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
