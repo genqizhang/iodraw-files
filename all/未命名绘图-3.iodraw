@@ -1045,6 +1045,9 @@
         <mxCell id="HiMhG17sZoFbv8DFTyK2-241" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$ S^{(T)}=Q^{(\mathrm{r})}{(K^{(T)})}^T\cdot scale$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1370" y="2015" width="590" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-242" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$B_c \times D$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1873" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
