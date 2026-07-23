@@ -1,29 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8IGJBMl4qPvF0ZkN5MEJ">
-    <mxGraphModel dx="1195" dy="-103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="795" dy="-503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$S=Q*K^T*scale$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1575" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-2" value="$$ S^{(T)}=Q^{(\mathrm{tile})}{(K^{(T)})}^T\cdot scale$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1218" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-5" value="$$\alpha =\exp(m_{\mathrm{old}}-m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="585" y="1200" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="$$\ell_{\mathrm{new}}=\alpha \ell_{\mathrm{old}}+\sum \exp(S_{\mathrm{tile}}-m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="485" y="1240" width="560" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-7" value="$$acc_{\mathrm{new}}=\alpha acc_{\mathrm{old}}+P_{\mathrm{tile}}V_{\mathrm{tile}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="495" y="1280" width="490" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-8" value="$$P_{\mathrm{tile}}=\exp(S_{\mathrm{tile}}-m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="535" y="1030" width="370" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-9" value="$$m_{\mathrm{new}}=\max(m_{\mathrm{old}},m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="535" y="1080" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1_48p6RzHqmxJMinCoqa-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="450" y="1520" width="200" height="40" as="geometry" />
