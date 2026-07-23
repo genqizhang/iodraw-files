@@ -1180,8 +1180,8 @@
             <mxPoint x="1820" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1_48p6RzHqmxJMinCoqa-328" value="$$P=Softmax(S)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1505" y="1578" width="130" height="30" as="geometry" />
+        <mxCell id="1_48p6RzHqmxJMinCoqa-328" value="$$\mathrm{P}=\mathrm{Softmax}(S)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="1578" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
