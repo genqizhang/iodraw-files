@@ -1129,8 +1129,8 @@
             <mxRectangle width="80" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HiMhG17sZoFbv8DFTyK2-265" value="$$m$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="1648" width="60" height="30" as="geometry" />
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-265" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$m$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="1700" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
