@@ -688,7 +688,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HiMhG17sZoFbv8DFTyK2-157" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$S^{(1)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-157" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$P^{(1)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="2083" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
