@@ -1079,7 +1079,7 @@
           <mxGeometry x="2050" y="1570" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-252" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1750" width="60" height="240" as="geometry" />
+          <mxGeometry x="2080" y="1680" width="60" height="240" as="geometry" />
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-253" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HiMhG17sZoFbv8DFTyK2-252">
           <mxGeometry width="60" height="40" as="geometry" />
