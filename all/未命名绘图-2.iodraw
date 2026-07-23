@@ -19,8 +19,8 @@
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-7" value="$$acc_{\mathrm{new}}=\alpha acc_{\mathrm{old}}+P_{\mathrm{tile}}V_{\mathrm{tile}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="495" y="1280" width="490" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-8" value="$$P_{tile}=\exp(S_{tile}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1328" width="210" height="30" as="geometry" />
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-8" value="$$P_{\mathrm{tile}}=\exp(S_{mathrm{tile}}-m_{mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="545" y="1328" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-9" value="$$m_{\mathrm{new}}=\max(m_{\mathrm{old}},m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="1160" width="380" height="30" as="geometry" />
