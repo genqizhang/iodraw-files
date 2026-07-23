@@ -13,8 +13,8 @@
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-5" value="$$\alpha =\exp(m_{\mathrm{old}}-m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="585" y="1200" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="$$\ell_{new}=\alpha \ell_{old}+\sum \exp(S_{tile}-m_{new})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1240" width="350" height="30" as="geometry" />
+        <mxCell id="ml6ATbWeU_7YXwq0dTD0-6" value="$$\ell_{\mathrm{new}}=\alpha \ell_{\mathrm{old}}+\sum \exp(S_{\mathrm{tile}}-m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="485" y="1240" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-7" value="$$acc_{new}=\alpha acc_{old}+P_{tile}V_{tile}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="1280" width="280" height="30" as="geometry" />
