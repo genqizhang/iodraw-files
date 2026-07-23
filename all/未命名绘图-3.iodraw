@@ -1414,7 +1414,7 @@
         <mxCell id="HiMhG17sZoFbv8DFTyK2-369" value="$$m_{\mathrm{new}}=\max(m_{\mathrm{old}},m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3425" y="1845" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HiMhG17sZoFbv8DFTyK2-370" value="$$m_{/mathrm{tile}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-370" value="$$m_{\mathrm{tile}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2710" y="1718" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
