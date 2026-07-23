@@ -20,7 +20,7 @@
           <mxGeometry x="495" y="1280" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-8" value="$$P_{\mathrm{tile}}=\exp(S_{\mathrm{tile}}-m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="1328" width="370" height="30" as="geometry" />
+          <mxGeometry x="570" y="1328" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ml6ATbWeU_7YXwq0dTD0-9" value="$$m_{\mathrm{new}}=\max(m_{\mathrm{old}},m_{\mathrm{new}})$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="1160" width="380" height="30" as="geometry" />
