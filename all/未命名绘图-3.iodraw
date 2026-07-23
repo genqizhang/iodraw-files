@@ -1403,7 +1403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-380" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="3210" y="2710" width="500" height="70" as="geometry" />
+          <mxGeometry x="2585" y="2560" width="500" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-381" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1419,8 +1419,8 @@
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-385" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2844.57" y="2350" as="sourcePoint" />
-            <mxPoint x="2844.8700000000003" y="2425" as="targetPoint" />
+            <mxPoint x="2834.23" y="2485" as="sourcePoint" />
+            <mxPoint x="2834.53" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
