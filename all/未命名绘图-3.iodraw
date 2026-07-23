@@ -1129,7 +1129,7 @@
             <mxRectangle width="80" height="53" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HiMhG17sZoFbv8DFTyK2-265" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span&gt;$$m$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;textOpacity=90;" vertex="1" parent="1">
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-265" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span&gt;$$m$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="2030" y="1660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-266" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;行最大值&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
