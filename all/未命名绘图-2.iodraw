@@ -1168,8 +1168,8 @@
         <mxCell id="1_48p6RzHqmxJMinCoqa-329" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$O=P*V$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1855" y="1603" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TtNVzJ7MHe8ihDyNyC4a-1" value="N = 6 D =4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1278" width="80" height="30" as="geometry" />
+        <mxCell id="TtNVzJ7MHe8ihDyNyC4a-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;N = 6 D =4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1300" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
