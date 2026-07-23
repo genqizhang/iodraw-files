@@ -1424,10 +1424,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-386" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;&quot;&gt;沿&amp;nbsp; &amp;nbsp; &amp;nbsp; 维逐行&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;求最大值&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3120" y="1700" width="260" height="40" as="geometry" />
+          <mxGeometry x="3170" y="1700" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HiMhG17sZoFbv8DFTyK2-389" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;$$B_c$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3120" y="1700" width="120" height="40" as="geometry" />
+          <mxGeometry x="3170" y="1700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-390" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3475" y="1998" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
