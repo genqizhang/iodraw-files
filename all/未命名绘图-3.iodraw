@@ -511,8 +511,8 @@
         <mxCell id="HiMhG17sZoFbv8DFTyK2-114" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Tile T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1630" y="1660" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HiMhG17sZoFbv8DFTyK2-115" value="固定当前 Q Tile，沿序列方向依次处理多个 K/V Tile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1568" width="290" height="30" as="geometry" />
+        <mxCell id="HiMhG17sZoFbv8DFTyK2-115" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;固定当前 Q Tile，沿序列方向依次处理多个 K/V Tile&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1563" width="570" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
