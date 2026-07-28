@@ -31,6 +31,18 @@
         <mxCell id="rN1GOCh_jwApWjUWAZo4-27" value="Stream b：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="256" y="452" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="430" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-3" value="Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420.5" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="430" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-5" value="Record Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="571" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
