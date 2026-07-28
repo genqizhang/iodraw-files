@@ -34,14 +34,14 @@
         <mxCell id="vUROe_t1qcsSYPoLmnCP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="769" y="460" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vUROe_t1qcsSYPoLmnCP-3" value="Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-3" value="Kernel B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="844" y="460" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vUROe_t1qcsSYPoLmnCP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="660" y="460" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vUROe_t1qcsSYPoLmnCP-5" value="Record Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="664.5" y="460" width="100" height="30" as="geometry" />
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-5" value="Wait Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="674.5" y="460" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
