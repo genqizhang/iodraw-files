@@ -7,8 +7,8 @@
         <mxCell id="L45rYh2mGQYjJIXKHnJe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="420" y="360" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L45rYh2mGQYjJIXKHnJe-27" value="Scale 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="500" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="L45rYh2mGQYjJIXKHnJe-27" value="Kernel A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="495" y="360" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-28" value="Stream 0：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="255" y="360" width="80" height="30" as="geometry" />
@@ -21,6 +21,11 @@
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-35" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1030" y="520" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vUROe_t1qcsSYPoLmnCP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L45rYh2mGQYjJIXKHnJe-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="375" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="L45rYh2mGQYjJIXKHnJe-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#4D4D4D;fontColor=#ffffff;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="641" y="360" width="70" height="30" as="geometry" />
